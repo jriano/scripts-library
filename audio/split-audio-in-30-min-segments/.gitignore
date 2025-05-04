@@ -1,7 +1,5 @@
 # Exclude hidden files and directories.
 
-**/.DS_Store
-
 !.git
 !.git/
 !.gitignore
